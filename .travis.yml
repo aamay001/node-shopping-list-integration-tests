@@ -1,4 +1,5 @@
 language: node_js
+<<<<<<< HEAD
 node_js: node
 deploy:
   provider: heroku
@@ -8,3 +9,6 @@ deploy:
   on:
     repo: aamay001/node-shopping-list-integration-tests
     branch: master
+=======
+node_js: node
+>>>>>>> 2b51826c9805c8ca5005ef3a0e02cda5666cd9cc
